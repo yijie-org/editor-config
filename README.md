@@ -13,9 +13,9 @@ common editor config and code style for a project
 
 -  clone a new project with `--recursive` to clone the editor config  submodul
 
-    - `git clone --recursive url`
+    `git clone --recursive url`
 
-    ps: add a `.gitmodules` file in project root directory 
+    **ps**: add a `.gitmodules` file in project root directory 
 
     `.gitmodules` file content like this: 
 
