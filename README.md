@@ -32,7 +32,7 @@ common editor config and code style for a project
 
     `git submodule update`
 
-    **ps** add a `.gitmodules` file in project root directory  
+    **ps**: add a `.gitmodules` file in project root directory  
 
 - update submodule to latest commit
 
