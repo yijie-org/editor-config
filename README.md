@@ -1,4 +1,4 @@
-# editor-config
+# vscode-config
 common editor config and code style for a project
 
 # setup
@@ -13,7 +13,7 @@ common editor config and code style for a project
 
 -  clone a new project with `--recursive` to clone the editor config  submodul
 
-    `git clone --recursive url`
+    `git clone --recursive projecrtUrl`
 
     **ps**: add a `.gitmodules` file in project root directory 
 
@@ -22,7 +22,7 @@ common editor config and code style for a project
     ```
     [submodule ".vscode"]
 	    path = .vscode
-	    url = git@github.com:BeliefChainOrg/editor-config.git
+	    url = git@github.com:yijie-org/editor-config.git
 
     ```
 
