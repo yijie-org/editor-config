@@ -32,6 +32,8 @@ common editor config and code style for a project
 
     `git submodule update`
 
+    **ps** add a `.gitmodules` file in project root directory  
+
 - update submodule to latest commit
 
     `git submodule update --remote`
@@ -46,7 +48,7 @@ common editor config and code style for a project
 
 - required:
 
-    - `editorconfig for vscode`
+    - `editor config for vscode`
 
     - `vscode eslint plugin, vscode prettier plugin, vscode solidity plugin`
 
