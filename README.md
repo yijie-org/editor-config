@@ -26,7 +26,6 @@ common editor config and code style for a project
 
     ```
 
-
 - if clone a new project forget `-recursive` , follow below command
 
     `git submodule init`
@@ -63,4 +62,3 @@ common editor config and code style for a project
             "eslint-plugin-react": "^7.5.1"
             "eslint-plugin-promise": "^3.6.0"
         ```
-
