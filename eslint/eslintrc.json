@@ -28,7 +28,6 @@
     "react/jsx-indent": ["error", 2],
     "react/jsx-indent-props": ["error", 2],
     "react/jsx-no-duplicate-props": "error",
-    "react/jsx-no-undef": "error",
     "react/jsx-tag-spacing": ["error", { "beforeSelfClosing": "always" }],
     "react/jsx-uses-react": "error",
     "react/jsx-uses-vars": "error",
@@ -187,10 +186,6 @@
     "max-params": [2, 6],
     "max-statements": [0, 10],
     "max-statements-per-line": ["error", { "max": 1 }],
-    // "new-cap": [
-    //   2,
-    //   { "capIsNewExceptions": ["Router", "Map", "Seq", "List", "Stack"] }
-    // ],
     "new-parens": 2,
     "newline-after-var": 0,
     "newline-before-return": 2,
