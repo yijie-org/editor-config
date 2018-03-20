@@ -5,11 +5,11 @@ common editor config and code style for a project
 
 -  add to project
 
-    `git submodule add git@github.com:yijie-org/editor-config.git .vscode`
+    `git submodule add git@github.com:yijie-org/vscode-config.git .vscode`
 
     or use https protocol
 
-    `git submodule add https://github.com/yijie-org/editor-config.git .vscode`
+    `git submodule add https://github.com/yijie-org/vscode-config.git .vscode`
 
 -  clone a new project with `--recursive` to clone the editor config  submodul
 
