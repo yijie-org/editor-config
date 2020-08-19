@@ -21,7 +21,6 @@
     "contract": true
   },
   "rules": {
-    "jsx-quotes": ["error", "prefer-double"],
     "react/jsx-boolean-value": "error",
     "react/jsx-curly-spacing": ["error", "never"],
     "react/jsx-equals-spacing": ["error", "never"],
