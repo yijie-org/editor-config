@@ -172,7 +172,7 @@
     "func-names": 2,
     "func-style": [2, "declaration", { "allowArrowFunctions": true }],
     "id-blacklist": 0,
-    "id-length": [2, { "min": 2, "exceptions": ["_"] }],
+    "id-length": [2, { "min": 2, "exceptions": ["_", "a", "b", "i", "j"] }],
     "id-match": 0,
     "indent": [2, 4, { "SwitchCase": 1, "VariableDeclarator": 1 }],
     "key-spacing": [2, { "beforeColon": false, "afterColon": true }],
