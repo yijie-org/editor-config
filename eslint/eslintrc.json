@@ -161,7 +161,7 @@
 
     "array-bracket-spacing": [2, "always"],
     "block-spacing": [2, "always"],
-    "brace-style": [2, "1tbs", { "allowSingleLine": true }],
+    "brace-style": [2, "1tbs"],
     "camelcase": [2, { "properties": "always" }],
     "comma-spacing": [2, { "before": false, "after": true }],
     "comma-style": [2, "last"],
