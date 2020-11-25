@@ -21,7 +21,7 @@
   },
   "rules": {
     "comma-dangle": [2, "always-multiline"],
-    "no-cond-ass💯ign": [2, "always"],
+    "no-cond-assign": [2, "always"],
     "no-console": 0,
     "no-constant-condition": 2,
     "no-control-regex": 2,
