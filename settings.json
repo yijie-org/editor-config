@@ -19,12 +19,10 @@
   "prettier.printWidth": 120,
   "prettier.arrowParens": "always",
   "prettier.bracketSpacing": false,
-  "prettier.eslintIntegration": true,
   "prettier.singleQuote": true,
   "prettier.tabWidth": 2,
   "prettier.semi": false,
   "editor.formatOnSave": true,
-  "eslint.enable": true,
   "eslint.run": "onType",
   "eslint.options": {
     "configFile": ".vscode/eslint/eslintrc.json"
