@@ -37,17 +37,10 @@ common editor config and code style for a project
 
     - `editor config for vscode`
 
-    - `vscode eslint plugin, vscode prettier plugin, vscode solidity plugin`
+    - `vscode eslint plugin, vscode prettier plugin`
 
     - `package.json devDependencies:`
 
-        ```package
-            "standard": "^10.0.3",
-            "eslint": "^4.10.0",
-            "eslint-config-standard": "^10.2.1",
-            "eslint-plugin-import": "^2.8.0",
-            "eslint-plugin-node": "^5.2.1",
-            "eslint-plugin-standard": "^3.0.1",
-            "eslint-plugin-react": "^7.5.1",
-            "eslint-plugin-promise": "^3.6.0"
-        ```
+      ```shell
+      npm install -D --save-exact standard eslint prettier
+      ```
